@@ -1,5 +1,4 @@
-## Sales Prediction using Bass Model on SAS:
+## Marketing Predictive Analytics using SAS:
 
-Sales for 10 week were known and the problem was to compute peak sales and the time when that peak will occur. 
-This computation will allow the company to know till when they should keep advertising to increase the sales. 
-This will also enable the company to keep the balance of the demand and supply. 
+Predictive analytics is a pretty interesting field and I have included all my related work. 
+My work includes the various applications of regression, prediction of sales using BASS Model, market share prediction using Conjoint Analysis, 2SLS Model to remove the endogeneity problem, Logistic Regression etc.   
